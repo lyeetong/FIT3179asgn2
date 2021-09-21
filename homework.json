@@ -30,7 +30,7 @@
           }
         }
       ],
-      "mark": "geoshape",
+      "mark": {"type": "geoshape"},
       "encoding": {
         "color": {
           "field": "Smoking",
