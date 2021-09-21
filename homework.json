@@ -53,9 +53,7 @@
             {"field": "properties.NAME", "type": "nominal", "title": "Country"},
             {"field": "Smoking", "type": "quantitative"}
           ]
-        },
-        "config": {}
+        }
       }
-    ],
-    "config": {}
+    ]
   }
